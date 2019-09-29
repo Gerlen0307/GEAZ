@@ -1,0 +1,6 @@
+C:\Users\ADMIN\source\repos\Elivet\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\ADMIN\source\repos\Elivet\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\ADMIN\source\repos\Elivet\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Elivet\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Elivet\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\ADMIN\source\repos\Elivet\CapaLogica\obj\Debug\CapaLogica.pdb

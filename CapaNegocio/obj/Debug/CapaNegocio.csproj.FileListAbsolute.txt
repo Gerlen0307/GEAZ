@@ -1,0 +1,6 @@
+C:\Users\ADMIN\source\repos\Elive2\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\ADMIN\source\repos\Elive2\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\ADMIN\source\repos\Elive2\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Elive2\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Elive2\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\ADMIN\source\repos\Elive2\CapaNegocio\obj\Debug\CapaNegocio.pdb
